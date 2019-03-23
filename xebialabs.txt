@@ -1,0 +1,2 @@
+https://dist.xebialabs.com/public
+https://dist.xebialabs.com/public/blueprints/aws/monolith/xebialabs/
